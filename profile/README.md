@@ -1,4 +1,3 @@
 # blockopensource
 
-Please visit https://github.com/block-open-source
-
+Please visit [https://github.com/block](https://github.com/block)
